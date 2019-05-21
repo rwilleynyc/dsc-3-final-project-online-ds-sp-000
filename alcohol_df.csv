@@ -1,4 +1,4 @@
-,state,year,beer,wine,spirits,all_bevs
+,State,Year,beer,wine,spirits,all_bevs
 0,Alabama,2016,1.09,0.26,0.65,2.01
 1,Alabama,2015,1.11,0.26,0.64,2.01
 2,Alabama,2014,1.13,0.25,0.62,2.0

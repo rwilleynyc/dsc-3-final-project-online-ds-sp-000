@@ -1,7 +1,7 @@
 ,Pipeline,Top Score,Parameters
-0,Decision Tree,0.7037735849056603,"{'clf__criterion': 'entropy', 'clf__max_depth': 7, 'clf__min_samples_leaf': 5, 'clf__min_samples_split': 0.05}"
-1,Logistic Regression,0.8018867924528302,"{'logreg__C': 10, 'logreg__penalty': 'l1'}"
-2,Support Vector Machine,0.8660377358490566,"{'svm__C': 10, 'svm__degree': 1, 'svm__gamma': 0.01, 'svm__kernel': 'rbf'}"
-3,Random Forest,0.7528301886792453,"{'rf__criterion': 'entropy', 'rf__max_depth': 7, 'rf__min_samples_leaf': 3, 'rf__min_samples_split': 0.05}"
-4,Adaboost,0.7113207547169811,{'ada__learning_rate': 0.94}
-5,XGBoost,0.8226415094339623,"{'xgb__learning_rate': 0.3, 'xgb__max_depth': 9, 'xgb__min_child_weight': 2, 'xgb__n_estimators': 75, 'xgb__subsample': 0.45}"
+0,Decision Tree,0.7113207547169811,"{'clf__criterion': 'gini', 'clf__max_depth': 7, 'clf__min_samples_leaf': 3, 'clf__min_samples_split': 0.05}"
+1,Logistic Regression,0.8056603773584906,"{'logreg__C': 100, 'logreg__penalty': 'l1'}"
+2,Support Vector Machine,0.9018867924528302,"{'svm__C': 10, 'svm__degree': 1, 'svm__gamma': 'auto', 'svm__kernel': 'rbf'}"
+3,Random Forest,0.7849056603773585,"{'rf__criterion': 'gini', 'rf__max_depth': 9, 'rf__min_samples_leaf': 3, 'rf__min_samples_split': 0.05}"
+4,Adaboost,0.7075471698113207,{'ada__learning_rate': 0.39}
+5,XGBoost,0.8641509433962264,"{'xgb__learning_rate': 0.15, 'xgb__max_depth': 9, 'xgb__min_child_weight': 2, 'xgb__n_estimators': 90, 'xgb__subsample': 0.55}"
