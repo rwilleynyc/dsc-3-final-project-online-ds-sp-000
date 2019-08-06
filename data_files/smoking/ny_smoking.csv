@@ -1,0 +1,19 @@
+,Year,State Name,Value,Lower CI,Upper CI,Source
+31,1999,New York,24.1,26.0,22.2,AHR data
+82,2000,New York,21.8,23.6,20.0,AHR data
+133,2001,New York,21.6,23.2,20.0,AHR data
+184,2002,New York,23.2,24.8,21.6,AHR data
+235,2003,New York,22.3,23.8,20.8,AHR data
+286,2004,New York,21.6,22.9,20.3,AHR data
+337,2005,New York,19.9,21.2,18.6,AHR data
+388,2006,New York,20.5,21.7,19.3,AHR data
+439,2007,New York,18.2,19.5,16.9,AHR data
+490,2008,New York,18.9,20.3,17.5,AHR data
+541,2009,New York,16.8,18.0,15.6,AHR data
+592,2010,New York,18.0,19.4,16.6,AHR data
+659,2011,New York,15.5,16.5,14.4,AHR data
+694,2012,New York,18.1,19.4,16.9,AHR data
+747,2013,New York,16.2,17.6,14.8,AHR data
+796,2014,New York,16.6,17.7,15.5,"CDC, Behavioral Risk Factor Surveillance System"
+847,2015,New York,14.4,15.5,13.3,"CDC, Behavioral Risk Factor Surveillance System"
+898,2016,New York,15.2,16.1,14.3,"CDC, Behavioral Risk Factor Surveillance System"
