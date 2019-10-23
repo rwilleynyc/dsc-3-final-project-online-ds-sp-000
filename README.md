@@ -1,4 +1,4 @@
- # Predicting Heart Disease Mortality in the United States
+# Predicting Heart Disease Mortality in the United States
 According data from the National Center for Health Statistics (NCHS), which is overseen by the Center for Disease Control (CDC), the leading cause of death in the United States is heart disease. Reliable reporting of this data for all states goes back to 1999, and the most recent public data available is from 2016.
 
 <img src='/images/CDC-logo-nchs.gif'>
@@ -73,3 +73,9 @@ Based on the results of this analysis, a few recommendations would be made to na
 1. Reallocate some resources from Illinois and Oklahoma to states in higher risk categories. It would also be a good idea to begin moving some of those resources to Tennessee since it went from low-risk to medium-risk.
 2. Run smoking awareness ad campaigns. As showcased by Oklahoma, targeting this one factor alone can make a huge difference.
 3. Run general awareness campaigns targeting women and retirees.
+
+These are just a few initial directions states and organizations can go, however it would also be a good idea for this analysis to be furthered in more narrow directions based on specific needs. For example, high risk states might want to take a deeper dive on the factors that contribute most to their risk-levels. This would allow for the development of more targeted, regional strategies. 
+
+In addition, for states at the medium- and low-risk levels, as well as other organizations, they may prefer to hold off on taking action, opting to add more behavioral and socioeconomic features in the model to see if accuracy can be improved. This could also provide additional insight to what’s going on in those mid-west states. 
+
+Finally, some states may face greater risks related to cancer. Those states could switch gears and perform a similar analysis on cancer. Given that heart disease seems to be continuing its downward trajectory (for the most part), it may be worth focusing on other causes of death that are potentially on the rise, and get ahead of them.
